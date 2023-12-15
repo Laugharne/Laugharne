@@ -6,16 +6,16 @@
 
 ## 📝  Blog posts
 
-| 🌐  | Sites        | Subjects   | Links                                                                                                                                                                                                          |
+| 🌐  | Topics       | Subjects   | Links                                                                                                                                                                                                          |
 | :--- | :----------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🇫🇷 | Medium       | Blockchain | [Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f) |
-| 🇫🇷 | laugharne.me | Code       | [PHP : Typage des paramètres de fonctions](http://laugharne.me/post/56910153196/php-typage-parametres-fonctions)                                                                                               |
-| 🇫🇷 | laugharne.me | Code       | [typed.js](http://laugharne.me/post/20671183955/typed-js)                                                                                                                                                      |
-| 🇫🇷 | laugharne.me | 3D         | [ThreeNode.js](http://laugharne.me/post/15710609836/threenode-js)                                                                                                                                              |
-| 🇫🇷 | laugharne.me | Code       | [M4 le langage de traitement de macros](http://laugharne.me/post/13489092551/m4-le-langage-de-traitement-de-macros)                                                                                            |
-| 🇫🇷 | laugharne.me | 3D         | [Débuter avec three.js](http://laugharne.me/post/11781335852/debuter-avec-three-js)                                                                                                                            |
-| 🇫🇷 | laugharne.me | []()       |                                                                                                                                                                                                                |
-
+| 🇫🇷 | Medium       | Blockchain | **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| 🇫🇷 | laugharne.me | Code       | **[PHP : Typage des paramètres de fonctions](http://laugharne.me/post/56910153196/php-typage-parametres-fonctions)**                                                                                               |
+| 🇫🇷 | laugharne.me | Code       | **[typed.js](http://laugharne.me/post/20671183955/typed-js)**                                                                                                                                                      |
+| 🇫🇷 | laugharne.me | 3D         | **[ThreeNode.js](http://laugharne.me/post/15710609836/threenode-js)**                                                                                                                                              |
+| 🇫🇷 | laugharne.me | Code       | **[M4 le langage de traitement de macros](http://laugharne.me/post/13489092551/m4-le-langage-de-traitement-de-macros)**                                                                                            |
+| 🇫🇷 | laugharne.me | 3D         | **[Débuter avec three.js](http://laugharne.me/post/11781335852/debuter-avec-three-js)**                                                                                                                            |
+| 🇫🇷 | laugharne.me | **[]()** |  |
+  
 ----
 ## 💎  Solidity
 
@@ -25,11 +25,12 @@
 ----
 ## 🦀  Rust
 
-| 🌐  | Sites  | Subjects | Links                                                                   |
-| :--- | :----- | :------- | ----------------------------------------------------------------------- |
-| 🇬🇧 | github | Solidity | [Select0r](https://github.com/Laugharne/select0r)                       |
-| 🇬🇧 | github | Code     | [Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023) |
-| 🇬🇧 | github | Courses  | [The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course) |
+| 🌐  | Topics | Subjects  | Links                                                                                                           |
+| :--- | :----- | :-------- | --------------------------------------------------------------------------------------------------------------- |
+| 🇬🇧 | github | Solidity  | **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
+| 🇬🇧 | github | Challenge | **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
+| 🇬🇧 | github | Courses   | **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
+| 🇬🇧 | github | Courses   | **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)** |
 
 ----
 ## 🖥️  Languages
