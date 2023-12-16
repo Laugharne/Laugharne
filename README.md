@@ -42,13 +42,8 @@
 ----
 ### 🖥️  Languages
 
-<img src="https://img.shields.io/badge/Rust-gray.svg?logo=rust&logoColor=red" alt="Rust-lang">
-<img src="https://img.shields.io/badge/C Ansi-gray.svg?logo=c" alt="C Ansi">
-<img src="https://img.shields.io/badge/Assembly-gray.svg?logo=assemblyscript&logoColor=yellow" alt="Assembly">
-<img src="https://img.shields.io/badge/PHP-gray.svg?logo=php" alt="PHP">
-<img src="https://img.shields.io/badge/Solidity-gray.svg?logo=solidity" alt="Solidity">
-<img src="https://img.shields.io/badge/Yul-gray.svg?logo=y" alt="Yul">
-<img src="https://img.shields.io/badge/Bash-gray.svg?logo=gnubash" alt="bash">
+<img src="https://img.shields.io/badge/Rust-gray.svg?logo=rust&logoColor=red" alt="Rust-lang"> <img src="https://img.shields.io/badge/C Ansi-gray.svg?logo=c" alt="C Ansi"> <img src="https://img.shields.io/badge/Assembly-gray.svg?logo=assemblyscript&logoColor=yellow" alt="Assembly"> <img src="https://img.shields.io/badge/PHP-gray.svg?logo=php" alt="PHP"> <img src="https://img.shields.io/badge/Solidity-gray.svg?logo=solidity" alt="Solidity"> <img src="https://img.shields.io/badge/Yul-gray.svg?logo=y" alt="Yul"> <img src="https://img.shields.io/badge/Bash-gray.svg?logo=gnubash" alt="bash">
+
 
 ----
 ### 🎓  Certificates
