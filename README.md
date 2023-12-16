@@ -6,15 +6,15 @@
 
 ### 📝  Blog posts
 
-| 🌐  | Sites        | Topics     | Links                                                                                                                                                                                                              |
-| :--- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🇫🇷 | Medium       | Ethereum   | **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
-| 🇫🇷 | laugharne.me | Code       | **[PHP : Typage des paramètres de fonctions](http://laugharne.me/post/56910153196/php-typage-parametres-fonctions)**                                                                                               |
-| 🇫🇷 | laugharne.me | Code       | **[typed.js](http://laugharne.me/post/20671183955/typed-js)**                                                                                                                                                      |
-| 🇫🇷 | laugharne.me | 3D         | **[ThreeNode.js](http://laugharne.me/post/15710609836/threenode-js)**                                                                                                                                              |
-| 🇫🇷 | laugharne.me | Code       | **[M4 le langage de traitement de macros](http://laugharne.me/post/13489092551/m4-le-langage-de-traitement-de-macros)**                                                                                            |
-| 🇫🇷 | laugharne.me | 3D         | **[Débuter avec three.js](http://laugharne.me/post/11781335852/debuter-avec-three-js)**                                                                                                                            |
-| 🇫🇷 | laugharne.me | **[]()**   |                                                                                                                                                                                                                    |
+| Sites        | Topics     | Links                                                                                                                                                                                                              |
+| :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Medium       | Ethereum   | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| Tumblr     | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
+| Tumblr       | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
+| Tumblr         | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
+| GitHub       | Code       | 🇫🇷 **[M4 le langage de traitement de macros](https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros)**                                                                                            |
+| Tumblr       | 3D         | 🇫🇷 **[Débuter avec three.js](https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js)**                                                                                                                            |
+| laugharne.me | **[]()**   |                                                                                                                                                                                                                    |
 
 
 <table>
@@ -32,17 +32,23 @@
 ----
 ### 🦀  Rust
 
-| 🌐  | Sites  | Topics    | Links                                                                                                               |
-| :--- | :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
-| 🇬🇧 | github | Solidity  | **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
-| 🇬🇧 | github | Challenge | **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
-| 🇬🇧 | github | Courses   | **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
-| 🇬🇧 | github | Courses   | **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
+| Sites  | Topics    | Links                                                                                                               |
+| :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
+| github | Solidity  | 🇬🇧 **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
+| github | Challenge | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
+| github | Courses   | 🇬🇧 **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
+| github | Courses   | 🇬🇧 **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
 
 ----
 ### 🖥️  Languages
 
-<img src="assets/rust.svg" width="16" height="16" > **Rust** / **C** / **Assembly** / **PHP** / **Solidity** / **Yul** / **Bash** /
+<img src="https://img.shields.io/badge/Rust-gray.svg?logo=rust&logoColor=red" alt="Rust-lang">
+<img src="https://img.shields.io/badge/C Ansi-gray.svg?logo=c" alt="C Ansi">
+<img src="https://img.shields.io/badge/Assembly-gray.svg?logo=assemblyscript&logoColor=yellow" alt="Assembly">
+<img src="https://img.shields.io/badge/PHP-gray.svg?logo=php" alt="PHP">
+<img src="https://img.shields.io/badge/Solidity-gray.svg?logo=solidity" alt="Solidity">
+<img src="https://img.shields.io/badge/Yul-gray.svg?logo=y" alt="Yul">
+<img src="https://img.shields.io/badge/Bash-gray.svg?logo=gnubash" alt="bash">
 
 ----
 ### 🎓  Certificates
@@ -66,6 +72,6 @@
 ----
 ### ➡️  Links
 
-/ **[Medium](https://medium.com/@franck.maussand)** / **[laugharne.me](https://laugharne.me/)** / **[diigo](https://www.diigo.com/user/laugharne_me)** / **[GitHub](https://github.com/Laugharne)** / **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** /
+**/** **[Medium](https://medium.com/@franck.maussand)** **/** **[laugharne.me](https://laugharne.me/)** **/** **[diigo](https://www.diigo.com/user/laugharne_me)** **/** **[GitHub](https://github.com/Laugharne)** **/** **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** **/**
 
 ----
