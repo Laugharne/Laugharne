@@ -8,7 +8,7 @@
 
 | 🌐  | Sites        | Topics     | Links                                                                                                                                                                                                              |
 | :--- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🇫🇷 | Medium       | Blockchain | **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| 🇫🇷 | Medium       | Ethereum   | **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
 | 🇫🇷 | laugharne.me | Code       | **[PHP : Typage des paramètres de fonctions](http://laugharne.me/post/56910153196/php-typage-parametres-fonctions)**                                                                                               |
 | 🇫🇷 | laugharne.me | Code       | **[typed.js](http://laugharne.me/post/20671183955/typed-js)**                                                                                                                                                      |
 | 🇫🇷 | laugharne.me | 3D         | **[ThreeNode.js](http://laugharne.me/post/15710609836/threenode-js)**                                                                                                                                              |
@@ -44,19 +44,8 @@
 
 / **Rust** / **C** / **Assembly** / **PHP** / **Solidity** / **Yul** / **Bash** /
 
-----  
-### ➡️  Links
-
-/ **[Medium](https://medium.com/@franck.maussand)** / **[laugharne.me](https://laugharne.me/)** / **[diigo](https://www.diigo.com/user/laugharne_me)** / **[GitHub](https://github.com/Laugharne)** / **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** /
-
-
 ----
 ### 🎓  Certificates
-
-- **[Alyra - Blockchain Developper](https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G)**
-- **[Udemy - Advanced Solidity: Understanding & Optimizing Gas Costs](https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/)**
-- **[Udemy - Advanced Solidity: Yul and Assembly](https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/)**
-- **[Udemy - The Complete Rust Programming Course](https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/)**
 
 <table>
 
@@ -73,5 +62,10 @@
   </tr>
 
 </table>
+
+----
+### ➡️  Links
+
+/ **[Medium](https://medium.com/@franck.maussand)** / **[laugharne.me](https://laugharne.me/)** / **[diigo](https://www.diigo.com/user/laugharne_me)** / **[GitHub](https://github.com/Laugharne)** / **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** /
 
 ----
