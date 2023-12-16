@@ -17,7 +17,7 @@
 | 🇫🇷 | laugharne.me | **[]()**   |                                                                                                                                                                                                                    |
 
 
-<table border="1">
+<table>
   <tr> <td>A</td> <td>B</td> <td>C</td> </tr>
   <tr> <td>D</td> <td>E</td> <td><b><a href="http://laugharne.me/post/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b></td> </tr>
 </table>
