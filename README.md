@@ -42,7 +42,7 @@
 ----
 ### 🖥️  Languages
 
-/ **Rust** / **C** / **Assembly** / **PHP** / **Solidity** / **Yul** / **Bash** /
+<img src="assets/rust.svg" width="16" height="16" > **Rust** / **C** / **Assembly** / **PHP** / **Solidity** / **Yul** / **Bash** /
 
 ----
 ### 🎓  Certificates
