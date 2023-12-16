@@ -49,6 +49,7 @@
 
 / **[Medium](https://medium.com/@franck.maussand)** / **[laugharne.me](https://laugharne.me/)** / **[diigo](https://www.diigo.com/user/laugharne_me)** / **[GitHub](https://github.com/Laugharne)** / **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** /
 
+
 ----
 ### 🎓  Certificates
 
@@ -57,5 +58,20 @@
 - **[Udemy : Advanced Solidity: Yul and Assembly](https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/)**
 - **[Udemy : The Complete Rust Programming Course](https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/)**
 
+<table>
+
+  <tr>
+    <td><b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G">Alyra : Blockchain Developper</a></b></td>
+    <td><b><a href="https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/">Udemy : Advanced Solidity: Understanding & Optimizing Gas Costs</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/">Udemy : Advanced Solidity: Yul and Assembly</a></b></td>
+    <td><b><a href="https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/">Udemy : The Complete Rust Programming Course</a></b>
+    </td>
+  </tr>
+
+</table>
 
 ----
