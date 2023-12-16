@@ -8,19 +8,19 @@
 
 | 🌐        | Topics     | Links                                                                                                                                                                                                              |
 | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="24">       | Ethereum   | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="24">    | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="24">      | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="24">        | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24">      | Code       | 🇫🇷 **[M4 le langage de traitement de macros](https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros)**                                                                                            |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="24">      | 3D         | 🇫🇷 **[Débuter avec three.js](https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js)**                                                                                                                            |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | Ethereum   | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">    | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">        | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22">      | Code       | 🇫🇷 **[M4 le langage de traitement de macros](https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros)**                                                                                            |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | 3D         | 🇫🇷 **[Débuter avec three.js](https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js)**                                                                                                                            |
 
 
-<img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="24">
+<img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">
 
-<img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24">
+<img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22">
 
-<img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="24">
+<img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">
 
 <table>
   <tr> <td>A</td> <td>B</td> <td>C</td> </tr>
@@ -39,10 +39,10 @@
 
 | 🌐  | Topics    | Links                                                                                                               |
 | :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24"> | Solidity  | 🇬🇧 **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24"> | Challenge | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24"> | Courses   | 🇬🇧 **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="24"> | Courses   | 🇬🇧 **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Solidity  | 🇬🇧 **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Challenge | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
 
 ----
 ### 🖥️  Languages
