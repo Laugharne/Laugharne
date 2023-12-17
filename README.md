@@ -32,7 +32,7 @@
 
   <tr>
     <td><b><a href="https://github.com/Laugharne/gas_optimization_panel
-">Gas Optimization Pannel With @dedohwale & @arzdev</a></b></td>
+">Gas Optimization Pannel With ...</a></b></td>
     <td><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b>
     </td>
   </tr>
@@ -111,6 +111,6 @@
 ----
 ### ➡️  Links
 
-▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** ▰
+▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[Email](mailto:franck@maussand.net)** ▰
 
 ----
