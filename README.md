@@ -1,6 +1,6 @@
 
 
-Rust Enthousiast ▰ Blockchain Developper ▰ xxx ▰ Lawful Neutral
+🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation addict ▰ 🛡️ Lawful Neutral
 
 ----
 
