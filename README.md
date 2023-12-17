@@ -109,6 +109,6 @@ I actively follow Solana, an invaluable resource offering accessible coding tuto
 ----
 ### ➡️  Links
 
-**/** **[Medium](https://medium.com/@franck.maussand)** **/** **[Tumblr](https://www.tumblr.com/laugharne-me)** **/** **[diigo](https://www.diigo.com/user/laugharne_me)** **/** **[GitHub](https://github.com/Laugharne)** **/** **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** **/**
+▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** ▰
 
 ----
