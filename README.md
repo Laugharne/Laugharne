@@ -8,7 +8,7 @@
 
 | 🌐        | Topics     | Links                                                                                                                                                                                                              |
 | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | EVM     | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | EVM     | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec ...](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">    | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">        | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
@@ -25,7 +25,7 @@
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec les noms de fonctions</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
     <td><b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b>
     </td>
   </tr>
@@ -60,7 +60,7 @@
 
 ▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
 
-▶ I actively follow Solana, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the Solana blockchain.
+▶ I actively follow **Solana**, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the Solana blockchain.
 
 
 <table>
@@ -73,6 +73,8 @@
 
 ----
 ### 🦀  Rust
+
+▶ Rust is the language I've been waiting for all along.
 
 | 🌐  | Topics    | Links                                                                                                               |
 | :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
