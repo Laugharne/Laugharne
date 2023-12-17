@@ -18,9 +18,9 @@
 ----
 ### 💎  Solidity
 
-I am deeply interesting about the Ethereum blockchain and Solidity language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
+▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
-For an in-depth understanding, I continually educate myself.
+▶ For an in-depth understanding, I continually educate myself.
 
 <table>
 
@@ -58,9 +58,9 @@ For an in-depth understanding, I continually educate myself.
 ----
 ### 𝕊  Solana
 
-Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
+▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
 
-I actively follow Solana, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the Solana blockchain.
+▶ I actively follow Solana, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the Solana blockchain.
 
 
 <table>
