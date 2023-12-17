@@ -1,6 +1,6 @@
 
 
-▰ ▰ ▰ lawful neutral
+Rust Enthousiast ▰ Blockchain Developper ▰ xxx ▰ Lawful Neutral
 
 ----
 
@@ -8,31 +8,68 @@
 
 | 🌐        | Topics     | Links                                                                                                                                                                                                              |
 | :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | Ethereum   | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | EVM     | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec les noms de fonctions](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">    | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">        | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22">      | Code       | 🇫🇷 **[M4 le langage de traitement de macros](https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros)**                                                                                            |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | 3D         | 🇫🇷 **[Débuter avec three.js](https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js)**                                                                                                                            |
 
-
-<img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">
-
-<img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22">
-
-<img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">
-
-<table>
-  <tr> <td>A</td> <td>B</td> <td>C</td> </tr>
-  <tr> <td>D</td> <td>E</td> <td><b><a href="http://laugharne.me/post/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b></td> </tr>
-</table>
-
-
 ----
 ### 💎  Solidity
 
+I am deeply interesting about the Ethereum blockchain and Solidity language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
+
+For an in-depth understanding, I continually educate myself.
+
+<table>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec les noms de fonctions</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/gas_optimization_panel
+">Gas Optimization Pannel With @dedohwale & @arzdev</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation
+">Advanced Solidity : Gas Optimisation</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/alyra_dapp_deploy
+">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/coverage_hh">A way to proceed to a test coverage of a Truffle project with HardHat</a></b>
+    </td>
+  </tr>
+
+</table>
+
+
+
 ----
 ### 𝕊  Solana
+
+Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
+
+I actively follow Solana, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the Solana blockchain.
+
+
+<table>
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
+  </tr>
+</table>
 
 ----
 ### 🦀  Rust
@@ -40,7 +77,7 @@
 | 🌐  | Topics    | Links                                                                                                               |
 | :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Solidity  | 🇬🇧 **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Challenge | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
+| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Code      | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
 | <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
 
@@ -72,6 +109,6 @@
 ----
 ### ➡️  Links
 
-**/** **[Medium](https://medium.com/@franck.maussand)** **/** **[laugharne.me](https://laugharne.me/)** **/** **[diigo](https://www.diigo.com/user/laugharne_me)** **/** **[GitHub](https://github.com/Laugharne)** **/** **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** **/**
+**/** **[Medium](https://medium.com/@franck.maussand)** **/** **[Tumblr](https://www.tumblr.com/laugharne-me)** **/** **[diigo](https://www.diigo.com/user/laugharne_me)** **/** **[GitHub](https://github.com/Laugharne)** **/** **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** / **[Email](mailto:franck@maussand.net)** **/**
 
 ----
