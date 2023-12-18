@@ -34,7 +34,7 @@
 
 
 ----
-### 💎  Solidity
+### <img src="assets/ethereum-color.svg" width="22" height="22">  Ethereum
 
 ▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
@@ -44,29 +44,27 @@
 
   <tr>
     <td><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b>
-    </td>
+    <td><b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/gas_optimization_panel
-">Gas Optimization Pannel With ...</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b>
-    </td>
+    <td><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation
-">Advanced Solidity : Gas Optimisation</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b>
-    </td>
+    <td><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/alyra_dapp_deploy
-">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/coverage_hh">A way to proceed to a test coverage of a Truffle project with HardHat</a></b>
-    </td>
+    <td><b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/coverage_hh">A way to proceed to a test coverage of a Truffle project with HardHat</a></b></td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
+    <td></td>
   </tr>
 
 </table>
@@ -74,7 +72,7 @@
 
 
 ----
-### 𝕊  Solana
+### <img src="assets/solana-sol-logo.svg" width="22" height="22">  Solana
 
 ▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
 
