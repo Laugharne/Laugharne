@@ -10,14 +10,28 @@
 
 ### 📝  Blog posts
 
-| 🌐        | Topics     | Links                                                                                                                                                                                                              |
-| :----------- | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=medium" alt="Medium" width="22">       | EVM     | 🇫🇷 **[Optimisation sur Ethereum : Faites la différence avec ...](https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f)** |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">    | Code       | 🇫🇷 **[PHP : Typage des paramètres de fonctions](https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions)**                                                                                               |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | Code       | 🇫🇷 **[typed.js](https://www.tumblr.com/laugharne-me/20671183955/typed-js)**                                                                                                                                                      |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">        | 3D         | 🇫🇷 **[ThreeNode.js](https://www.tumblr.com/laugharne-me/15710609836/threenode-js)**                                                                                                                                              |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22">      | Code       | 🇫🇷 **[M4 le langage de traitement de macros](https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros)**                                                                                            |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=tumblr" alt="Tumblr" width="22">      | 3D         | 🇫🇷 **[Débuter avec three.js](https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js)**                                                                                                                            |
+<table>
+
+  <tr>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/20671183955/typed-js">typed.js</a></b></td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/15710609836/threenode-js">ThreeNode.js</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
+    </td>
+  </tr>
+
+</table>
+
 
 ----
 ### 💎  Solidity
@@ -79,7 +93,6 @@
 ### 🦀  Rust
 
 ▶ Rust is the language I've been waiting for all along.
-
 
 <table>
 
