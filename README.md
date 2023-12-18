@@ -1,11 +1,12 @@
 
 >Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**. Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
-🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation addict ▰ 🛡️ Lawful Neutral
+▰ 🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation addict ▰ 🛡️ Lawful Neutral ▰
 
-## Activities and Interests
 
 ----
+
+## Activities and Interests
 
 ### 📝  Blog posts
 
@@ -79,12 +80,22 @@
 
 ▶ Rust is the language I've been waiting for all along.
 
-| 🌐  | Topics    | Links                                                                                                               |
-| :----- | :-------- | ------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Solidity  | 🇬🇧 **[Select0r](https://github.com/Laugharne/select0r)**                                                               |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Code      | 🇬🇧 **[Advent of Code 2023](https://github.com/Laugharne/advent_of_code_2023)**                                         |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[The complete RUST programming course](https://github.com/Laugharne/udemy_the_complete_rust_programming_course)** |
-| <img src="https://img.shields.io/badge/-gray.svg?logo=github" alt="GitHub" width="22"> | Courses   | 🇬🇧 **[WASM Game of Life](https://github.com/Laugharne/wasm-game-of-life)**                                             |
+
+<table>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
+    </td>
+  </tr>
+
+</table>
 
 ----
 ### 🖥️  Technologies & Tools
