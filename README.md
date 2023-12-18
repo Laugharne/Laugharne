@@ -34,7 +34,7 @@
 
 
 ----
-### <img src="assets/ethereum-color.svg" width="22" height="22">  Ethereum
+### <img src="assets/ethereum-color.svg" width="21" height="21">  Ethereum
 
 ▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
@@ -59,7 +59,7 @@
 
   <tr>
     <td><b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/coverage_hh">A way to proceed to a test coverage of a Truffle project with HardHat</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/coverage_hh">A test coverage of a Truffle project with HardHat</a></b></td>
   </tr>
 
   <tr>
@@ -72,7 +72,7 @@
 
 
 ----
-### <img src="assets/solana-sol-logo.svg" width="22" height="22">  Solana
+### <img src="assets/solana-sol-logo.svg" width="21" height="21">  Solana
 
 ▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft intelligent contracts.
 
