@@ -6,7 +6,7 @@
 
 ----
 
-## Activities and Interests
+# Activities and Interests
 
 ### 📝  Blog posts
 
