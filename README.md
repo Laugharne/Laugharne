@@ -46,18 +46,18 @@
   </tr>
 
   <tr>
-    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
+    <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
     <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
   </tr>
 
   <tr>
-    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
+    <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
     <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
   </tr>
 
   <tr>
-    <td><img src="assets/truffle-suite.svg" width="16" height="16" border="0"><b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
-    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16" border="0">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">A test coverage of a Truffle project with HardHat</a></b></td>
+    <td><img src="assets/truffle-suite.svg" width="15" height="15" border="0">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16" border="0">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
   </tr>
 
   <tr>
