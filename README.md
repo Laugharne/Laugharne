@@ -56,12 +56,12 @@
   </tr>
 
   <tr>
-    <td><img src="assets/truffle-suite.svg" width="19" height="19" border="0">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><img src="assets/truffle-suite.svg" width="20" height="20" border="0">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
     <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16" border="0">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">A test coverage of a Truffle project with HardHat</a></b></td>
   </tr>
 
   <tr>
-    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0"><b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
     <td></td>
   </tr>
 
