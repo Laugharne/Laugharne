@@ -12,19 +12,25 @@
 
   <tr>
     <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+    <td>🇬🇧 <b><a href="https://github.com/Laugharne/Optimal_Function_Names_en">Optimization on Ethereum: Make a Difference with ...</a></b></td>
+  </tr>
+
+  <tr>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
     </td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/20671183955/typed-js">typed.js</a></b></td>
   </tr>
 
   <tr>
-    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/20671183955/typed-js">typed.js</a></b></td>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/15710609836/threenode-js">ThreeNode.js</a></b>
     </td>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
   </tr>
 
   <tr>
-    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -37,32 +43,32 @@
 ▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
 ▶ For an in-depth understanding, I continually educate myself.
-
+  
 <table>
 
   <tr>
-    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G"><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names_en">Optimization on Ethereum: Make a Difference with ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+  </tr>
+
+  <tr>
     <td>🦀 <b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
-  </tr>
-
-  <tr>
     <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
+  </tr>
+
+  <tr>
     <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
-  </tr>
-
-  <tr>
     <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
+  </tr>
+
+  <tr>
     <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
-  </tr>
-
-  <tr>
     <td><img src="assets/truffle-suite.svg" width="15" height="15">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
-    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
   </tr>
 
   <tr>
+    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
     <td><img src="assets/alyra_icon.png" width="16" height="16" >&nbsp;<b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
-    <td></td>
   </tr>
   
 </table>
