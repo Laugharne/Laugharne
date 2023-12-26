@@ -11,8 +11,8 @@
 <table>
 
   <tr>
-    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
-    <td>🇬🇧 <b><a href="https://github.com/Laugharne/Optimal_Function_Names_en">Optimization on Ethereum: Make a Difference with ...</a></b></td>
+    <td>🇬🇧 <b><a href="https://github.com/Laugharne/Optimal_Function_Names_en">Optimization on Ethereum: Make a Difference ...</a></b></td>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
   </tr>
 
   <tr>
@@ -139,6 +139,6 @@
 ----
 ## ➡️  Links
 
-▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[Email](mailto:franck@maussand.net)** ▰
+ ▰ **[Email](mailto:franck@maussand.net)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰
 
 ----
