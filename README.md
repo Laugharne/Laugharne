@@ -41,27 +41,27 @@
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="19" height="19"><b><b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G"><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="19" height="19"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="19" height="19"><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="19" height="19"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="19" height="19"><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/coverage_hh">A test coverage of a Truffle project with HardHat</a></b></td>
+    <td><img src="assets/truffle-suite.svg" width="19" height="19" border="0">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16" border="0">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">A test coverage of a Truffle project with HardHat</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0"><b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
     <td></td>
   </tr>
 
