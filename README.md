@@ -8,6 +8,9 @@
 
 ### 📝  Blog posts
 
+▶ Contributor to [**CoinsBench**](https://coinsbench.com), where blockchain developers share their stories, experiences & ideas.
+
+
 <table>
 
   <tr>
