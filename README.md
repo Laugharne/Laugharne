@@ -145,6 +145,6 @@
 ----
 ## ➡️  Links
 
- ▰ **[Email](mailto:franck@maussand.net)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰
+ ▰ **[Email](mailto:franck@maussand.net)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[**CoinsBench**](https://coinsbench.com)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰
 
 ----
