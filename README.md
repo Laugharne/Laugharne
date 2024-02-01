@@ -33,7 +33,7 @@
   <tr>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
     </td>
-    <td>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus</a></b>
     </td>
   </tr>
 
