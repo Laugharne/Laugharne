@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills)</a></b></td>
     <td><b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
-    <td></td>
+    <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
 </table>
 
