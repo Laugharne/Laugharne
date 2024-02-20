@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills)</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b></td>
     <td><b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
   </tr>
   <tr>
