@@ -73,7 +73,13 @@
     <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
     <td><img src="assets/alyra_icon.png" width="16" height="16" >&nbsp;<b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
   </tr>
-  
+
+  <tr>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td></td>
+  </tr>
+
+
 </table>
 
 
@@ -117,6 +123,12 @@
   <tr>
     <td><b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b></td>
     <td><b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td>
     </td>
   </tr>
 
