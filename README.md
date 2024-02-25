@@ -19,14 +19,13 @@
   </tr>
 
   <tr>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/solana_functions_visibility">Solana / Ethereum : Visibilité des fonctions</a></b></td>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
-    </td>
-    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/20671183955/typed-js">typed.js</a></b></td>
   </tr>
 
   <tr>
-    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/15710609836/threenode-js">ThreeNode.js</a></b>
     </td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/20671183955/typed-js">typed.js</a></b></td>
     <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
   </tr>
 
@@ -50,8 +49,8 @@
 <table>
 
   <tr>
-    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference with ...</a></b></td>
-    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence avec ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
   </tr>
 
   <tr>
@@ -104,6 +103,10 @@
   <tr>
     <td><b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
     <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Laugharne/solana_functions_visibility">Solana / Ethereum : Visibilité des fonctions</a></b></td>
+    <td></td>
   </tr>
 </table>
 
