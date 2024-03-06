@@ -19,7 +19,7 @@
   </tr>
 
   <tr>
-    <td>🇫🇷 <b><a href="https://github.com/Laugharne/solana_functions_visibility">Solana / Ethereum : Visibilité des fonctions</a></b></td>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
   </tr>
 
@@ -105,7 +105,7 @@
     <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_functions_visibility">Solana / Ethereum : Visibilité des fonctions</a></b></td>
+    <td><b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
     <td></td>
   </tr>
 </table>
