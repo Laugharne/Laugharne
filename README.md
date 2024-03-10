@@ -131,7 +131,7 @@
 
   <tr>
     <td><b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
-    <td>
+    <td><b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
     </td>
   </tr>
 
