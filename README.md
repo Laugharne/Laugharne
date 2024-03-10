@@ -6,7 +6,7 @@
 
 # Activities and Interests
 
-### 📝  Blog posts
+### ✍️  Blog posts
 
 ▶ Contributor to [**CoinsBench**](https://coinsbench.com), where blockchain developers share their stories, experiences & ideas.
 
@@ -93,7 +93,7 @@
 
 <table>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b> ✨</td>
     <td><b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@
     <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
   <tr>
-    <td><b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
+    <td><b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b> ✨</td>
     <td></td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b></td>
+    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> ✨</td>
     <td><b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
     </td>
   </tr>
