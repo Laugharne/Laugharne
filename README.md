@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/Laugharne/solana_functions_visibility_en">Solana / Ethereum: Function Visibility</a></b> ✨</td>
-    <td></td>
+    <td><b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> ✨</td>
   </tr>
 </table>
 
