@@ -118,20 +118,20 @@
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
-    <td><b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
+    <td><img src="assets/ethereum-color.svg" width="14" height="14"> <b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
+    <td>🎓 <b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
     </td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
-    <td><b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
+    <td>🦀 <b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
+    <td>🦀 <b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
     </td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
+    <td>🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
     </td>
   </tr>
 
