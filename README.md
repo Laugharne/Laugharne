@@ -93,20 +93,20 @@
 
 <table>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b> ✨</td>
-    <td><b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b> <sup>✨</sup></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
-    <td><b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Laugharne/solana_functions_visibility_en">Solana / Ethereum: Function Visibility</a></b> ✨</td>
-    <td><b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> ✨</td>
+    <td>✍️ <b><a href="https://github.com/Laugharne/solana_functions_visibility_en">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
+    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
   </tr>
 </table>
 
@@ -118,8 +118,8 @@
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> ✨</td>
-    <td><b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> ✨</td>
+    <td><b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
+    <td><b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
     </td>
   </tr>
 
