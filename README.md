@@ -19,7 +19,7 @@
   </tr>
 
   <tr>
-    <td>🇬🇧 <b><a href="https://github.com/Laugharne/solana_functions_visibility_en">Solana / Ethereum: Function Visibility</a></b></td>
+    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b></td>
     <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
   </tr>
 
@@ -78,7 +78,6 @@
     <td></td>
   </tr>
 
-
 </table>
 
 
@@ -93,6 +92,10 @@
 
 <table>
   <tr>
+    <td>✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
+    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
+  </tr>
+  <tr>
     <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b> <sup>✨</sup></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
   </tr>
@@ -103,10 +106,6 @@
   <tr>
     <td>🦀 <b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
-  </tr>
-  <tr>
-    <td>✍️ <b><a href="https://github.com/Laugharne/solana_functions_visibility_en">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
-    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
   </tr>
 </table>
 
