@@ -96,8 +96,8 @@
     <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
   </tr>
   <tr>
-    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (Course By RareSkills)</a></b> <sup>✨</sup></td>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills Courses)</a></b> <sup>✨</sup></td>
+    <td><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Learn Solana (Calyptus Courses)</a></b> <sup>✨</sup></td>
   </tr>
   <tr>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
@@ -106,6 +106,10 @@
   <tr>
     <td>🦀 <b><a href="https://github.com/Laugharne/rust-101-for-solana">rust-101-for-solana (fork)</a></b></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td></td>
   </tr>
 </table>
 
