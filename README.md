@@ -2,8 +2,9 @@
 
 ▰ 🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation Addict ▰ 🛡️ Lawful Neutral ▰
 
-----
+>Previously with a diverse background spanning industrial computing in **C & assembly**, backend development in **PHP**, and expertise in **2D/3D graphics**. 
 
+----
 # Activities and Interests
 
 ### ✍️  Blog posts
@@ -11,7 +12,7 @@
 ▶ Contributor to [**CoinsBench**](https://coinsbench.com), where blockchain developers share their stories, experiences & ideas.
 
 
-<table width="100%">
+<table>
 
   <tr>
     <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
@@ -45,8 +46,8 @@
 ▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
 ▶ For an in-depth understanding, I continually educate myself.
-
-<table width="100%">
+  
+<table>
 
   <tr>
     <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
@@ -90,7 +91,7 @@
 ▶ I actively follow **Solana**, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the **Solana blockchain**.
 
 
-<table width="100%">
+<table>
   <tr>
     <td>✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
     <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
@@ -117,20 +118,20 @@
 <table width="100%">
 
   <tr>
-    <td><img src="assets/ethereum-color.svg" width="14" height="14"> <b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
-    <td>🎓 <b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
+    <td width="50%"><img src="assets/ethereum-color.svg" width="14" height="14"> <b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
+    <td width="50%">🎓 <b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
     </td>
   </tr>
 
   <tr>
-    <td>🦀 <b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
-    <td>🦀 <b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
+    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
+    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
     </td>
   </tr>
 
   <tr>
-    <td>🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
-    <td>🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
+    <td width="50%">🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
     </td>
   </tr>
 
@@ -146,7 +147,7 @@
 ----
 ### 🎓  Certificates
 
-<table width="100%">
+<table>
 
   <tr>
     <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G">Alyra : Blockchain Developper</a></b></td>
