@@ -2,7 +2,7 @@
 
 ▰ 🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation Addict ▰ 🛡️ Lawful Neutral ▰
 
->With a diverse [**background**](https://www.linkedin.com/in/franckmaussand/) like **C & assembly** industrial computing , **PHP** backend development, and expertise in **2D/3D graphics**. 
+>With a diverse [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**. 
 
 ----
 # Activities and Interests
