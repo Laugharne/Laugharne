@@ -12,28 +12,28 @@
 ▶ Contributor to [**CoinsBench**](https://coinsbench.com), where blockchain developers share their stories, experiences & ideas.
 
 
-<table width="960px">
+<table>
 
   <tr>
-    <td width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
-    <td width="50%">🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
+    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b></td>
-    <td width="50%">🇫🇷 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
+    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b></td>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
   </tr>
 
   <tr>
     </td>
-    <td width="50%">🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
-    <td width="50%">🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
   </tr>
 
   <tr>
-    <td width="50%">🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
     </td>
-    <td width="50%">🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus</a></b>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus</a></b>
     </td>
   </tr>
 
@@ -47,36 +47,36 @@
 
 ▶ For an in-depth understanding, I continually educate myself.
   
-<table width="960px">
+<table>
 
   <tr>
-    <td width="50%"><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
-    <td width="50%"><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/Optimal_Function_Names">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
-    <td width="50%"><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/select0r">Select0r tool</a></b></td>
+    <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/gas_optimization_panel">Gas Optimization Pannel With ...</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%"><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
-    <td width="50%"><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/EVM_Technical_walkthrough">EVM Technical walkthrough</a></b></td>
+    <td><img src="assets/solidity-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/advanced_solidity_gas_optimisation">Advanced Solidity : Gas Optimisation</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%"><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
-    <td width="50%"><img src="assets/truffle-suite.svg" width="15" height="15">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
+    <td><img src="assets/ethereum-color.svg" width="16" height="16"><b><a href="https://github.com/Laugharne/cheap_contract_deployment_through_clones">Cheap Contract Deployment Through Clones</a></b></td>
+    <td><img src="assets/truffle-suite.svg" width="15" height="15">&nbsp;<b><a href="https://github.com/Laugharne/alyra_dapp_deploy">Truffle Project Deployment (Vercel+Goerli)</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%"><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
-    <td width="50%"><img src="assets/alyra_icon.png" width="16" height="16" >&nbsp;<b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
+    <td><img src="assets/hardhat-seeklogo.com.svg" width="16" height="16">&nbsp;<b><a href="https://github.com/Laugharne/coverage_hh">Test coverage of a Truffle project with HardHat</a></b></td>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" >&nbsp;<b><a href="https://docs.google.com/presentation/d/1_VGALq5puhRKeQGUGATBOHusYdewv5ewNE0Bz45g6ro/edit?usp=sharing">Alyra, l'école blockchain - Mémoire RS5000</a></b></td>
   </tr>
 
   <tr>
-    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
-    <td width="50%"></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td></td>
   </tr>
 
 </table>
@@ -91,22 +91,22 @@
 ▶ I actively follow **Solana**, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the **Solana blockchain**.
 
 
-<table width="960px">
+<table>
   <tr>
-    <td width="50%">✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
-    <td width="50%">⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
+    <td>✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
+    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills Courses)</a></b> <sup>✨</sup></td>
-    <td width="50%"><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Solana learning (Calyptus Courses)</a></b> <sup>✨</sup></td>
+    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills Courses)</a></b> <sup>✨</sup></td>
+    <td><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Solana learning (Calyptus Courses)</a></b> <sup>✨</sup></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
-    <td width="50%"><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
-    <td width="50%"><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
 </table>
 
@@ -115,23 +115,23 @@
 
 ▶ Rust is the language I've been waiting for all along.
 
-<table width="960px">
+<table>
 
   <tr>
-    <td width="50%"><img src="assets/ethereum-color.svg" width="14" height="14"> <b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
-    <td width="50%">🎓 <b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
+    <td><img src="assets/ethereum-color.svg" width="14" height="14"> <b><a href="https://github.com/Laugharne/select0r">Select0r</a></b> <sup>✨</sup></td>
+    <td>🎓 <b><a href="https://github.com/Laugharne/udemy_the_complete_rust_programming_course">The complete RUST programming course</a></b> <sup>✨</sup></td>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
-    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
+    <td>🦀 <b><a href="https://github.com/Laugharne/advent_of_code_2023">Advent of Code 2023</a></b>
+    <td>🦀 <b><a href="https://github.com/Laugharne/wasm-game-of-life">WASM Game of Life</a></b>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
-    <td width="50%">🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
+    <td>🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
     </td>
   </tr>
 
@@ -147,17 +147,17 @@
 ----
 ### 🎓  Certificates
 
-<table width="960px">
+<table>
 
   <tr>
-    <td width="50%"><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G">Alyra : Blockchain Developper</a></b></td>
-    <td width="50%"><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/"> Advanced Solidity: Understanding & Optimizing Gas Costs</a></b>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G">Alyra : Blockchain Developper</a></b></td>
+    <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/"> Advanced Solidity: Understanding & Optimizing Gas Costs</a></b>
     </td>
   </tr>
 
   <tr>
-    <td width="50%"><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/"> Advanced Solidity: Yul and Assembly</a></b></td>
-    <td width="50%"><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/">The Complete Rust Programming Course</a></b>
+    <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/"> Advanced Solidity: Yul and Assembly</a></b></td>
+    <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/">The Complete Rust Programming Course</a></b>
     </td>
   </tr>
 
