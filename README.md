@@ -3,9 +3,9 @@
 
 Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**, with a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & Assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**.
 
-Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
+Check out my **repositories** for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
-> ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="14" height="14"> **Solana Fan** ▰ 🛡️ **Lawful Neutral** ▰
+> ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="14" height="14"> **Solana Fan** ▰ ⚔️ **Lawful Neutral** ▰
 
 --------
 # Activities and Interests
