@@ -1,8 +1,8 @@
->Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**. Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
+Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**. Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
 ▰ 🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation Addict ▰ 🛡️ Lawful Neutral ▰
 
->With a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**. 
+With a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**. 
 
 ----
 # Activities and Interests
