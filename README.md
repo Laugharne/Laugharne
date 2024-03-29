@@ -7,7 +7,7 @@ Check out my repositories for insights into gas optimization strategies, EVM, an
 
 > ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="14" height="14"> **Solana Fan** ▰ 🛡️ **Lawful Neutral** ▰
 
---------
+
 # Activities and Interests
 
 ### ✍️  Blog posts
