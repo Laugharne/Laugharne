@@ -2,6 +2,7 @@ Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **
 
 ▰ 🦀 Rust Enthousiast ▰ 🔗 Blockchain Developper ▰ 🚀 Optimisation Addict ▰ 🛡️ Lawful Neutral ▰
 
+--------
 Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
 ----
