@@ -3,7 +3,8 @@ Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **
 
 Check out my repositories for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
-> ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ 🛡️ **Lawful Neutral** ▰
+> ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="16" height="16"> Solana Fan ▰ 🛡️ **Lawful Neutral** ▰
+
 
 # Activities and Interests
 
