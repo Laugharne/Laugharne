@@ -36,7 +36,7 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
   <tr>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
     </td>
-    <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus</a></b>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/pow-pos-poh-guide-simple-mecanismes-consensus-blockchain-ee88b76a1001">PoW, PoS, PoH : Guide des consensus</a></b>
     </td>
   </tr>
 
