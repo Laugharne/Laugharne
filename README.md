@@ -28,16 +28,16 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
   </tr>
 
   <tr>
-    </td>
-    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
-    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
-  </tr>
-
-  <tr>
-    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/11781335852/debuter-avec-three-js">Débuter avec three.js</a></b>
+    <td>🇬🇧 <b><a href="https://medium.com/coinsbench/pow-pos-poh-a-simple-guide-to-blockchain-consensus-mechanisms-6985e983e0b2">PoW, PoS, PoH: A Simple Guide to Blockchain Consensus Mechanisms</a></b>
     </td>
     <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/pow-pos-poh-guide-simple-mecanismes-consensus-blockchain-ee88b76a1001">PoW, PoS, PoH : Guide des consensus</a></b>
     </td>
+  </tr>
+
+  <tr>
+    </td>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
+    <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
   </tr>
 
 </table>
