@@ -3,6 +3,8 @@
 
 Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**, with a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & Assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**.
 
+**Currently, I am enrolled in the "Alyra x Solana Foundation" courses.&nbsp;(<img src="assets/alyra_icon.png" width="14" height="14" >&nbsp;+&nbsp;<img src="assets/solana-sol-logo.svg" width="14" height="14">)**
+
 Check out my **repositories** for insights into gas optimization strategies, EVM, and advanced Solidity practices.
 
 > ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="14" height="14"> **Solana Fan** ▰ 🧙‍♂️ **Lawful Neutral** ▰
