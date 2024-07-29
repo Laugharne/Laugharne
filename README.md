@@ -3,9 +3,7 @@
 
 Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**, with a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & Assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**.
 
-**Currently, I am enrolled in the "Alyra x Solana Foundation" courses.&nbsp;&nbsp;&nbsp;<img src="assets/alyra_icon.png" width="14" height="14" >&nbsp;&nbsp;x&nbsp;&nbsp;<img src="assets/solana-sol-logo.svg" width="14" height="14">**
-
-Check out my **repositories** for insights into gas optimization strategies, EVM, and advanced Solidity practices.
+Check out my **repositories** for insights into gas optimization strategies, EVM,  advanced Solidity practices and now... **Solana**.
 
 > ▰ 🦀 **Rust Enthousiast** ▰ 🔗 **Blockchain Developper** ▰ 🚀 **Optimisation Addict** ▰ <img src="assets/solana-sol-logo.svg" width="14" height="14"> **Solana Fan** ▰ 🧙‍♂️ **Lawful Neutral** ▰
 
@@ -42,6 +40,38 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
   </tr>
 
+</table>
+
+
+----
+### <img src="assets/solana-sol-logo.svg" width="21" height="21">  Solana
+
+▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft smart contracts.
+
+▶ I actively follow **Solana**, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the **Solana blockchain**.
+
+
+<table>
+  <tr>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/7887621B9350112FFD5C61342AFA7E6391D8750CC104CDE22FCC093411E6289Aalg4djZ4QW8rYmFEZXpKTDduY0hSK1JrU0JYOHJZN0JTUjZmdk9wYnpvZFNGUFQr">Alyra x Solana Foundation</a></b> <sup>✨</sup></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/ato">ATO : Autonomous Trading Organization</a></b></td>
+  </tr>
+  <tr>
+    <td>✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
+    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
+  </tr>
+  <tr>
+    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills Courses)</a></b> <sup>✨</sup></td>
+    <td><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Solana learning (Calyptus Courses)</a></b> <sup>✨</sup></td>
+  </tr>
+  <tr>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
+  </tr>
 </table>
 
 
@@ -87,34 +117,6 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 </table>
 
 
-
-----
-### <img src="assets/solana-sol-logo.svg" width="21" height="21">  Solana
-
-▶ Engaging in comprehensive bootcamps to unravel **Solana**'s intricacies, covering architecture, key concepts, and empowering developers to craft smart contracts.
-
-▶ I actively follow **Solana**, an invaluable resource offering accessible coding tutorials, guiding me through the journey of building exciting projects on the **Solana blockchain**.
-
-
-<table>
-  <tr>
-    <td>✍️ <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
-    <td>⚓ <b><a href="https://github.com/Laugharne/abf_anchor_build_fixer">ABF : Anchor Build Fixer</a></b> <sup>✨</sup></td>
-  </tr>
-  <tr>
-    <td><img src="assets/rareskills_io_logo.jpeg" width="14" height="14" >&nbsp;<b><a href="https://github.com/Laugharne/solana_rareskills">60 days of Solana (RareSkills Courses)</a></b> <sup>✨</sup></td>
-    <td><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Solana learning (Calyptus Courses)</a></b> <sup>✨</sup></td>
-  </tr>
-  <tr>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
-  </tr>
-  <tr>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
-  </tr>
-</table>
-
 ----
 ### 🦀  Rust
 
@@ -156,15 +158,20 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 <table>
 
   <tr>
+    <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/7887621B9350112FFD5C61342AFA7E6391D8750CC104CDE22FCC093411E6289Aalg4djZ4QW8rYmFEZXpKTDduY0hSK1JrU0JYOHJZN0JTUjZmdk9wYnpvZFNGUFQr">Alyra : Solana Blockchain Developper</a></b></td>
     <td><img src="assets/alyra_icon.png" width="16" height="16" border="0">&nbsp;<b><a href="https://certificate.bcdiploma.com/check/0770624BBEEFA3F9CFD293BCD4B0598BF90C51C741E0633E6935538F6CE05FECdVN0Mnp0M3k2NFJPVm9VQ0ZSa1pibTdWL2c1TUtRUUp6UnRKcUdIMWt1VjFpdU5G">Alyra : Blockchain Developper</a></b></td>
-    <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/"> Advanced Solidity: Understanding & Optimizing Gas Costs</a></b>
-    </td>
   </tr>
 
   <tr>
+    <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-5135d45b-70ee-46e5-9d3e-8b859e4ba161/"> Advanced Solidity: Understanding & Optimizing Gas Costs</a></b>
+    </td>
     <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-ef9438ea-92b7-4f42-a91e-46ff28006419/"> Advanced Solidity: Yul and Assembly</a></b></td>
+  </tr>
+
+  <tr>
     <td><img src="assets/udemy_icon.png" border="0">&nbsp;<b><a href="https://www.udemy.com/certificate/UC-82d2d8e0-8e3d-43b3-adb1-631ccaa59b73/">The Complete Rust Programming Course</a></b>
     </td>
+    <td></td>
   </tr>
 
 </table>
