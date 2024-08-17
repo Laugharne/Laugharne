@@ -1,5 +1,5 @@
 
-# 
+#
 
 Hello, I'm **Franck**, a developer focused on **Blockchain** technologies and **Rust**, with a [**background**](https://www.linkedin.com/in/franckmaussand/) on **C & Assembly** industrial computing, **PHP** backend development, and expertise in **2D/3D graphics**.
 
@@ -38,6 +38,14 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     </td>
     <td>🇫🇷 <b><a href="https://github.com/Laugharne/m4_le_langage_de_traitement_de_macros">M4 le langage de traitement de macros</a></b></td>
     <td>🇫🇷 <b><a href="https://www.tumblr.com/laugharne-me/56910153196/php-typage-parametres-fonctions">PHP : Typage des paramètres de fonctions</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    </td>
+    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Avoiding Common Pitfalls in Rust & Anchor Development</a></b> <sup>✨</sup></td>
+    <td>
+    </td>
   </tr>
 
 </table>
@@ -72,6 +80,10 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
+  <tr>
+    <td>✍️ <b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Avoiding Common Pitfalls in Rust & Anchor Development</a></b> <sup>✨</sup></td>
+    <td></td>
+  </tr>
 </table>
 
 
@@ -81,7 +93,7 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 ▶ I am deeply interesting about the **Ethereum** blockchain and **Solidity** language, with a keen focus on optimizing gas costs—a pivotal challenge in the development of smart contracts.
 
 ▶ For an in-depth understanding, I continually educate myself.
-  
+
 <table>
 
   <tr>
