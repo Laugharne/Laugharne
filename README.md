@@ -82,8 +82,14 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
   </tr>
   <tr>
     <td>✍️ <b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Avoiding Common Pitfalls in Rust & Anchor Development</a></b> <sup>✨</sup></td>
-    <td></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_summer_fellowship_2024">Solana Summer Fellowship</a></b> <sup>✨</sup></td>
   </tr>
+  <tr>
+    <td>⚓ <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b> <sup>✨</sup></td>
+  <td>
+  </td>
+  </tr>
+
 </table>
 
 
@@ -152,6 +158,11 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td>🔘 <b><a href="https://github.com/Laugharne/rust-nft-api">Rust NFT API (fork)</a></b></td>
     <td>🦀 <b><a href="https://github.com/Laugharne/rust_string_guide">Working with Strings in Rust</a></b>
     </td>
+  </tr>
+
+  <tr>
+    <td>⚓ <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b> <sup>✨</sup></td>
+    <td></td>
   </tr>
 
 </table>
