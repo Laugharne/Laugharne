@@ -73,8 +73,8 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td><img src="assets/calyptus_co_logo.png" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_calyptus">Solana learning (Calyptus Courses)</a></b> <sup>✨</sup></td>
   </tr>
   <tr>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
   </tr>
   <tr>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
