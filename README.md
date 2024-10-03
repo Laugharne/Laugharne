@@ -61,6 +61,10 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 
 <table>
   <tr>
+    <td>☀️&nbsp;<b><a href="https://github.com/Laugharne/solana_summer_fellowship_2024">Solana Summer Fellowship</a></b> <sup>✨</sup></td>
+    <td>⚓ <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b> <sup>✨</sup></td>
+  </tr>
+  <tr>
     <td>🎓&nbsp;<b><a href="https://certificate.bcdiploma.com/check/7887621B9350112FFD5C61342AFA7E6391D8750CC104CDE22FCC093411E6289Aalg4djZ4QW8rYmFEZXpKTDduY0hSK1JrU0JYOHJZN0JTUjZmdk9wYnpvZFNGUFQr">Alyra x Solana Foundation</a></b> <sup>✨</sup></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/ato">ATO : Autonomous Trading Organization</a></b></td>
   </tr>
@@ -74,19 +78,14 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
   </tr>
   <tr>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/Token-Metadata-with-Token-Extensions-on-Solana">Token Metadata with Token Extensions on Solana</a></b></td>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
+      <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_foundation_tutorials">Solana Foudation Tutorials</a></b></td>
   </tr>
   <tr>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bootcamp">Solana Bootcamp</a></b></td>
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
-  <tr>
     <td>✍️ <b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Avoiding Common Pitfalls in Rust & Anchor Development</a></b> <sup>✨</sup></td>
-    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_summer_fellowship_2024">Solana Summer Fellowship</a></b> <sup>✨</sup></td>
-  </tr>
-  <tr>
-    <td>⚓ <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b> <sup>✨</sup></td>
-  <td>
+    <td>
   </td>
   </tr>
 
