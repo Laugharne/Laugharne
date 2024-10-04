@@ -18,20 +18,20 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 <table>
 
   <tr>
-    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
-    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
-  </tr>
-
-  <tr>
     <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility</a></b> <sup>✨</sup></td>
     <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-functions-visibility-4c10ec2852c3">Solana / Ethereum : Visibilité des fonctions</a></b></td>
   </tr>
 
   <tr>
-    <td>🇬🇧 <b><a href="https://medium.com/coinsbench/pow-pos-poh-a-simple-guide-to-blockchain-consensus-mechanisms-6985e983e0b2">PoW, PoS, PoH: A Simple Guide to Blockchain Consensus Mechanisms</a></b>
+    <td>🇬🇧 <b><a href="https://medium.com/coinsbench/pow-pos-poh-a-simple-guide-to-blockchain-consensus-mechanisms-6985e983e0b2">PoW, PoS, PoH: A Simple Guide to Blockchain Consensus Mechanisms</a></b> <sup>✨</sup>
     </td>
     <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/pow-pos-poh-guide-simple-mecanismes-consensus-blockchain-ee88b76a1001">PoW, PoS, PoH : Guide des consensus</a></b>
     </td>
+  </tr>
+
+  <tr>
+    <td>🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference ...</a></b></td>
+    <td>🇫🇷 <b><a href="https://medium.com/@franck.maussand/optimisation-sur-ethereum-faites-la-diff%C3%A9rence-avec-les-noms-de-fonctions-ba4692c9e39f">Optimisation sur Ethereum : Faites la différence ...</a></b></td>
   </tr>
 
   <tr>
