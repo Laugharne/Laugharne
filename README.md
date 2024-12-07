@@ -85,8 +85,7 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://github.com/Laugharne/solana_bytes">Solana Bytes</a></b></td>
   </tr>
     <td>✍️ <b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Avoiding Common Pitfalls in Rust & Anchor Development</a></b> <sup>✨</sup></td>
-    <td>
-  </td>
+    <td><img src="assets/solana-sol-logo.svg" width="14" height="14">&nbsp;<b><a href="https://medium.com/coinsbench/exploring-the-solana-token-extensions-22b5f9bf45d8">Exploring the Solana Token Extensions</a></b> <sup>✨</sup></td>
   </tr>
 
 </table>
