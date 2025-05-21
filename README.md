@@ -159,7 +159,8 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 
   <tr>
     <td>⚓ <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b> <sup>✨</sup></td>
-    <td></td>
+    <td>🦀 <b><a href="https://github.com/Laugharne/rust_compiler_deep_dive">How the Rust Compiler Works, a Deep Dive</a></b>
+    </td>
   </tr>
 
 </table>
