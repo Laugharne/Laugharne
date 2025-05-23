@@ -47,6 +47,12 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     <td>🇬🇧&nbsp;<b><a href="https://medium.com/coinsbench/exploring-the-solana-token-extensions-22b5f9bf45d8">Exploring the Solana Token Extensions</a></b> <sup>✨</sup></td>
   </tr>
 
+  <tr>
+    </td>
+    <td>🇬🇧 <b><a href="https://medium.com/coinsbench/understanding-std-mem-take-in-rust-b4b44e49406f">Understanding `std::mem::take` in Rust</a></b></td>
+    <td></td>
+  </tr>
+
 </table>
 
 
@@ -163,6 +169,12 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
     </td>
   </tr>
 
+  <tr>
+    <td>✍️ <b><a href="https://medium.com/coinsbench/understanding-std-mem-take-in-rust-b4b44e49406f">Understanding std::mem::take
+</a></b></td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 ----
