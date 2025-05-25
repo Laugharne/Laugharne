@@ -212,6 +212,6 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
 ----
 ## ➡️  Links
 
- ▰ **[Email](mailto:franck@maussand.net)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[**CoinsBench**](https://coinsbench.com)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰
+ ▰ **[Email](mailto:franck@maussand.net)** ▰ **[LinkedIn](https://www.linkedin.com/in/franckmaussand/)** ▰ **[GitHub](https://github.com/Laugharne)** ▰ **[Medium](https://medium.com/@franck.maussand)** ▰ **[**CoinsBench**](https://coinsbench.com)** ▰ **[Tumblr](https://www.tumblr.com/laugharne-me)** ▰ **[diigo](https://www.diigo.com/user/laugharne_me)** ▰ **[AssessFirst](https://my.assessfirst.com/public/profile/1uiiejxt-franck-maussand?lang=en-EN)** ▰
 
 ----
