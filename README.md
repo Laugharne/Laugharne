@@ -172,7 +172,8 @@ Check out my **repositories** for insights into gas optimization strategies, EVM
   <tr>
     <td>✍️ <b><a href="https://medium.com/coinsbench/understanding-std-mem-take-in-rust-b4b44e49406f">Understanding std::mem::take
 </a></b></td>
-    <td>
+    <td><img src="assets/Polkadot (DOT) Logo Vector.svg" width="16" height="16">&nbsp; <b><a href="https://github.com/Laugharne/polkadot_substrate_rust">Polkadot: Substrate & Rust
+</a></b>
     </td>
   </tr>
 </table>
